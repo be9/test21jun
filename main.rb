@@ -1,2 +1,2 @@
-puts 'Hello world!'
-puts 'Hello you!'
+printf "Hello world!\n"
+printf "Hello you!\n"
